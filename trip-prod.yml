@@ -5,7 +5,7 @@ trip:
  message: "Welcome to Trip Planning Application in PROD"
  contactDetail:
     name: "Ayaan Shajahan"
-    email: "ayaan@gmail.com"
+    email: "{cipher}5687363b3fa27a75d1c98622a5995be846cf2287315700f8e749b7c9373dbcdc"
     phone: "34343434"
  onCallSupport:
     - 11111
