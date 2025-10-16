@@ -1,0 +1,13 @@
+build:
+  version: 1.0.0
+
+trip:
+ message: "Welcome to Trip Planning Application"
+ contactDetail:
+    name: "Shajahan P"
+    email: "shajahanp@gmail.com"
+    phone: "1234567890"
+ onCallSupport:
+    - 53535355
+    - 35353553
+

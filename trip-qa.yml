@@ -1,0 +1,13 @@
+build:
+  version: 1.0.0
+
+trip:
+ message: "This QA TRIP app "
+ contactDetail:
+    name: "Shamna A "
+    email: "shamna@gmail.com"
+    phone: "33333"
+ onCallSupport:
+    - 77777
+    - 77778
+
