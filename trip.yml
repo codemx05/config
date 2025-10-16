@@ -5,7 +5,7 @@ trip:
  message: "Welcome to Trip Planning Application"
  contactDetail:
     name: "Shajahan P"
-    email: "shajahanp@gmail.com"
+    email: "{cipher}e391456a8df9a9ab818a50e70b2f49a438cfeccc988e9bbf31da9b9ef61a2416185be6ae20dd31ae12c1801530f71b3e"
     phone: "1234567890"
  onCallSupport:
     - 53535355
