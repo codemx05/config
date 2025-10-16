@@ -5,7 +5,7 @@ trip:
  message: "This QA TRIP app "
  contactDetail:
     name: "Shamna A "
-    email: "shamna@gmail.com"
+    email: "{cipher}22b72b350a4a8eccef882721871257f76bf33af3e6b7ace3609847ddecabab476504eba0c33cb93b61d67e46bbab34fa"
     phone: "33333"
  onCallSupport:
     - 77777
